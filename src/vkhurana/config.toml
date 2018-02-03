@@ -1,0 +1,4 @@
+baseURL = "https://vkhurana.github.io/"
+languageCode = "en-us"
+title = "Vivek Khurana"
+theme = "purehugo"

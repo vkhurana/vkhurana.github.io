@@ -1,0 +1,3 @@
+[submodule "src/vkhurana/themes/purehugo"]
+	path = src/vkhurana/themes/purehugo
+	url = https://github.com/dplesca/purehugo.git
