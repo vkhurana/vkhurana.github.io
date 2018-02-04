@@ -2,3 +2,9 @@ baseURL = "https://vkhurana.github.io/"
 languageCode = "en-us"
 title = "Vivek Khurana"
 theme = "purehugo"
+
+[params]
+  twitterName = "vivkhurana"
+  githubName = "vkhurana"
+  description = "Engineer. Hacker. Coder."
+  google_analytics = "UA-113488577-1"
